@@ -1,0 +1,9 @@
+# Environnement Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Fichiers de travail locaux
+.claude/
+CLAUDE.md
+test.py
